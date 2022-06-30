@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 
-class DfOutlier:
+class HandleOutlier:
 
     def __init__(self, df: pd.DataFrame) -> None:
         self.df = df
