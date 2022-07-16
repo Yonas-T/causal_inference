@@ -58,7 +58,7 @@ This project is built mainly with the following python libraries.
 ### Prerequisites
 
 Creating a conda environment
-* npm
+* conda
   ```sh
   conda create -n <your environment name>
   ```
